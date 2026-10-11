@@ -5,7 +5,7 @@ import { MessageCircle, CheckCircle2 } from 'lucide-react';
 import { useLang } from '../context/LanguageContext';
 import { content } from '../content/content';
 
-const WHATSAPP_NUMBER = '967773031599';
+const WHATSAPP_NUMBER = '967785656520';
 
 export default function ConfirmStep() {
   const { lang } = useLang();

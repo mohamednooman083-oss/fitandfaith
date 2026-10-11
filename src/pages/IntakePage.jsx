@@ -6,7 +6,7 @@ import { useLang } from '../context/LanguageContext';
 import { content } from '../content/content';
 import FoodPreferences from '../components/FoodPreferences';
 
-const WHATSAPP_NUMBER = '967773031599';
+const WHATSAPP_NUMBER = '967785656520';
 
 function Field({ label, children, optional, isAr, t }) {
   return (
